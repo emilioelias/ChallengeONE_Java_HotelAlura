@@ -12,12 +12,16 @@ Sistema de autenticación de usuario para que solo usuarios pertenecientes al ho
 Permitir crear, editar y eliminar una reserva para los clientes;
 Buscar en la base de datos todas las informaciones tanto de los clientes como de las reservas;
 Registrar, editar y eliminar datos de los huéspedes;
-Calcular el valor de la reserva en base a la cantidades de días de la reserva y a una tasa diaria que puede ser asignada por ti y en la moneda local de tu país, por ejemplo si tenemos una reserva de 3 dias y el valor de nuestra diaria son 20$ debemos multiplicar esos 3 dias por el valor de la diaria que serian 60$, todo esto deberá ser hecho automaticamente y mostrado al usuario antes de guardar la reserva;
+Calcular el valor de la reserva en base a la cantidades de días de la reserva y a una tasa diaria que puede ser asignada por ti y en la moneda local de tu país, por ejemplo si tenemos una reserva de 3 dias y el valor de nuestra diaria son X$ debemos multiplicar esos 3 dias por el valor de la diaria, todo esto deberá ser hecho automaticamente y mostrado al usuario antes de guardar la reserva;
 Base de datos para almacenar todos los datos pedidos anteriormente.
 </p>
 
+<h2>Tecnologia utilizada</h2>
+<li>Java 8.</li>
+<li>MySQL.</li>
+
 <h2>Estado del proyecto</h2>
-<p></p>
+<p>Se esta trabajando sobre la interfaz gráfica y validaciones de campo.</p>
  <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
@@ -37,3 +41,7 @@ Base de datos para almacenar todos los datos pedidos anteriormente.
 
 ![BusquedaDeHuesped](https://user-images.githubusercontent.com/105246525/195998424-a80b873a-d2cc-4da4-a84f-5e5ef7288806.png)
 
+<h2>Autor</h2>
+
+| [<img src="https://avatars.githubusercontent.com/u/105246525?s=400&u=da46bb872317ff5449350f750a9d6c6cada1ab2e&v=4" width=115><br><sub>Emilio Elias</sub>](https://github.com/emilioelias) |
+| :---: | 
